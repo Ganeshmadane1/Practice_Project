@@ -1,0 +1,14 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules\\.bin\\cypress run"
+  },
+  "author": "ganesh",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+}
